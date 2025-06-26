@@ -1,4 +1,3 @@
-# FeatSel_Hyperparam_HIGGS/src/preprocess.py
 import pandas as pd
 import numpy as np
 

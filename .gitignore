@@ -8,14 +8,14 @@ __pycache__/
 *.pyc
 *.ipynb_checkpoints/
 
-# Veri (büyük dosyaları Git'e eklemek istemiyorsanız)
+# Veri (büyük dosyaları Git'e eklemek istemiyoruz)
 data/HIGGS.csv.gz
 data/HIGGS.csv
 
 # Rapor çıktıları (eğer çok büyükse veya sadece nihai PDF yeterliyse)
 reports/*.csv
 reports/*.json
-# reports/*.png # Eğer görselleri Git'e eklemek istemiyorsanız
+# reports/*.png # Eğer görselleri Git'e eklemek istemiyorsak
 
 # VS Code
 .vscode/*.code-workspace

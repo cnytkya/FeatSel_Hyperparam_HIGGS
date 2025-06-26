@@ -1,4 +1,3 @@
-# FeatSel_Hyperparam_HIGGS/src/main.py
 import pandas as pd
 import numpy as np
 import os # For file paths
@@ -165,7 +164,6 @@ def run_experiment():
     results_B = {} # Flowchart B'ye özgü sonuçları depolamak için
 
     # Özellik seçimi için denenecek k değerleri (örneğin, 10, 15, 20 gibi)
-    # Hocanızın "min max ve adım aralığını daraltarak deneyebilirsin" direktifi burada da geçerli.
     # Bu aralığı dar tutarak hızlıca sonuç alalım.
     feature_selection_k_range = [10, 15, 20] # Original was 15, adding a few nearby values.
 
