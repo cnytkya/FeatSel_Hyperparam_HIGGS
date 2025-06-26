@@ -15,7 +15,7 @@ python -m venv .venv
 Bu komut, proje dizininizin içinde .venv adında yeni bir sanal ortam oluşturacaktır. Bu işlem birkaç saniye sürebilir.
 
 2.Sanal Ortamı Aktifleştirin:
-İşletim sisteminize göre uygun komutu kullanın:
+.İşletim sisteminize göre uygun komutu kullanın:
 Windows (PowerShell): .venv\Scripts\Activate.ps1
 Windows (Command Prompt / CMD): .venv\Scripts\activate.bat
 Linux / macOS (Bash / Zsh): source .venv/bin/activate
