@@ -1,0 +1,24 @@
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Veri (büyük dosyaları Git'e eklemek istemiyorsanız)
+data/HIGGS.csv.gz
+data/HIGGS.csv
+
+# Rapor çıktıları (eğer çok büyükse veya sadece nihai PDF yeterliyse)
+reports/*.csv
+reports/*.json
+# reports/*.png # Eğer görselleri Git'e eklemek istemiyorsanız
+
+# VS Code
+.vscode/*.code-workspace
+
+# Ortam değişkenleri ve hassas bilgiler
+.env

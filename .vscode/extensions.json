@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "donjayamanne.python-extension-pack",
+        "esbenp.prettier-vscode",
+        "editorconfig.editorconfig"
+    ]
+}
