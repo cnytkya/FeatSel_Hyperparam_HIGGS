@@ -61,7 +61,7 @@ HIGGS veri seti çok büyüktür (yaklaşık 11 milyon örnek). Doğrudan GitHub
 
 Verilen linkten (https://archive.ics.uci.edu/ml/datasets/HIGGS) veri setini indirin. Sayfada "Data Folder" linkine tıklayıp HIGGS.csv.gz dosyasını indirin.
 
-İndirdiğiniz HIGGS.csv.gz dosyasını projenizin FeatSel_Hyperparam_HIGGS/data/ klasörünün içine taşıyın. Aşağıdaki olması gerekir.
+İndirdiğiniz HIGGS.csv.gz dosyasını projenizin FeatSel_Hyperparam_HIGGS/data/ klasörünün içine taşıyın. Aşağıdaki olması gerekir. Eğer hata alırsanız küçük harfle higgs yazan kısmı silin data/HIGGS.csv.gz şeklinde olması gerekir.
 
 ![image](https://github.com/user-attachments/assets/1ca9f1d1-8452-4172-89df-39d449535bb0)
 
