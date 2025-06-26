@@ -106,7 +106,8 @@ VS Code terminalinde (sanal ortamınızın aktif olduğundan emin olun): (python
 
 ![image](https://github.com/user-attachments/assets/cae44edd-587f-4e60-9e71-6e6e663bde48)
 
-
+# Sonuç : ROC Eğrileri Karşılaştırması
+![image](https://github.com/user-attachments/assets/02849b92-ea86-456b-b115-0781253d8c4b)
 
 
 
