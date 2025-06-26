@@ -5,9 +5,9 @@ Bu adım, projemizin bağımlılıklarını izole etmek ve doğru Python ortamı
 
 # Yapılacaklar:
 
-VS Code Terminalini Açın:
+<!--VS Code Terminalini Açın -->
 
-VS Code'da üst menüden Terminal > New Terminal seçeneğine tıklayın veya Ctrl + Shift + ~ (tilde) kısayolunu kullanın. Terminal, $ VS Code'un alt panelinde açılacaktır. Proje klasörünüzde (FeatSel_Hyperparam_HIGGS) olduğundan emin olun.
+VS Code'da üst menüden Terminal > New Terminal seçeneğine tıklayın veya Ctrl + Shift + ~ (tilde) kısayolunu kullanın. Terminal, VS Code'un alt panelinde açılacaktır. Proje klasörünüzde (FeatSel_Hyperparam_HIGGS) olduğundan emin olun.
 Sanal Ortam Oluşturun:
 
 Terminale aşağıdaki komutu yazın ve Enter'a basın
